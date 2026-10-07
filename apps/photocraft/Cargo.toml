@@ -55,3 +55,4 @@ objc2-app-kit = { version = "=0.3.2", default-features = false, features = ["std
 [build-dependencies]
 # Icon + VERSIONINFO for photocraft.exe; build.rs only uses it when targeting Windows.
 winresource = "0.1"
+
